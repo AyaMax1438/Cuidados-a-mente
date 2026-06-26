@@ -1,4 +1,4 @@
-# Bem-vindo ao projeto completo
+# Bem-vindo ao projeto completo! LEIA AQUI 👇
 Este é um projeto [Expo](https://expo.dev) criado com [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 
