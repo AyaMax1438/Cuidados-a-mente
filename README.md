@@ -3,6 +3,7 @@ Aqui vai ficar todos os arquivos do projeto
 - Link da documentação: https://docs.google.com/document/d/1mvIGyud9bmRrRlj9dl96y3j7iVDtt3YjxckcpiDWV1E/edit?usp=sharing
 - Link da apresentação: https://canva.link/r1n72endwoe8wc3
 - Link do Figma: https://www.figma.com/design/GbLJu2BfWbautG7IoVXnQZ/Cuidados-da-Mente?node-id=0-1&t=iyWcb2VK9np304vq-1
+- testeian
 
 ## O que é?
 "Cuidados-a-mente" é um aplicativo que visa digitalizar os cuidados de um idoso com Alzheimer. Além de ter um banco de memórias, o aplicativo conta com rotinas, medicação e agendamento de consultas, todas registradas pelo responsável.
